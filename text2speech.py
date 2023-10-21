@@ -9,6 +9,7 @@ import sys
 import asyncio
 import edge_tts
 
+os.makedirs('voice/', exist_ok=True)
 
 def load_text(fn):
     with open(fn, 'r') as f:

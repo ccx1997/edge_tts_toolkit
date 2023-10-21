@@ -5,6 +5,10 @@
 pip install edge-tts
 ```
 
+## Notice
+The tool calls the Microsoft online service.
+So make sure **NOT to use private or sensitive data**.
+
 ## Quick start
 Simply run:
 ```
